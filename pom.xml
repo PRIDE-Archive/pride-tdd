@@ -3,7 +3,7 @@
 
   <groupId>uk.ac.ebi.pride.architectural</groupId>
   <artifactId>pride-tdd</artifactId>
-  <version>1.0.2-SNAPSHOT</version>
+  <version>1.0.3-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <parent>
